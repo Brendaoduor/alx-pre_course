@@ -1,3 +1,3 @@
 my first readme
 
-This change was made on githb
+This change was made on github
